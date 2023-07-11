@@ -10,3 +10,6 @@ spring:
 tpd:
   topic-name: advice-topic
   messages-per-request: 25
+
+Secret:
+  key: ty567ghh677g
